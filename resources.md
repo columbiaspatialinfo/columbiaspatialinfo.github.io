@@ -7,6 +7,9 @@ title: Resources
 
 {% include resources_practitioners.md %}
 
+{% include resources_apps.md %}
+
 {% include resources_tools.md %}
 
-{% include resources_apps.md %}
+### User-Centered Design
+- [Google Ventures posts on User Research](https://library.gv.com/tagged/user-research)
