@@ -1,0 +1,20 @@
+title: GSAPP User-Centered Design
+description: "GSAPP User-Centered Design class, exploring augmented reality and spatial information design. By instructor Agnes Chang."
+author:
+    name: Agnes Chang
+    email: ac3882@columbia.edu
+
+
+# Build settings
+markdown: kramdown
+sass:
+    style: compressed
+permalink: none
+
+collections:
+    projects:
+        output: true
+
+exclude:
+    - Gemfile
+    - Gemfile.lock

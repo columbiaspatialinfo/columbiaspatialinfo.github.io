@@ -1,0 +1,33 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>
+        {{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}
+    </title>
+    {% if page.excerpt %}
+        <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    {% elsif page.description %}
+        <meta name="description" content="{{ page.description }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
+    {% if site.social_image %}
+        <meta property="og:image" content="{{ site.social_image }}">
+    {% endif %}
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" type="text/css" href="{{ "../files/bootstrap.min.css" | relative_url }}" />
+    <link rel="stylesheet" type="text/css" href="/css/main.css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700&display=swap" rel="stylesheet">
+    <!-- {% if site.typekit %}
+        <script src="https://use.typekit.net/{{ site.typekit }}.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    {% endif %} -->
+    <script
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+<script src="{{ "../files/bootstrap.min.js" | relative_url }}"></script>
+</head>
