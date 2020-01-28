@@ -8,7 +8,7 @@ layout: default
 <br>
 _Visual Studies A4894 (3 pts)_ <br>
 _Instructor:_ Agnes Chang (ac3882) with Ann Harakawa, office hours by appt. <br>
-_IA: TBD_<br>
+_IA:_ Adam Vosburgh (akv2118)<br>
 _Class Time:_ Wed 7-9pm <br>
 _Room:_ 200 Buell <br>
 [Class Slack](https://join.slack.com/t/columbiaspati-sa12856/shared_invite/enQtODkwNTIzNTE0NzkwLWEwZDM4OTY2NTAxZjAwN2Y5Yzc5MGQ2NDIzNjNkMDk1NTAzMDlkNzQ3YzM5YzkyMWFjNzJlYTRmNzE1ZWFmNTI) <br>
