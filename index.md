@@ -11,7 +11,7 @@ _Instructor:_ Agnes Chang (ac3882) with Ann Harakawa, office hours by appt. <br>
 _IA:_ Adam Vosburgh (akv2118)<br>
 _Class Time:_ Wed 7-9pm <br>
 _Room:_ 200 Buell <br>
-[Class Slack](https://join.slack.com/t/columbiaspati-sa12856/shared_invite/enQtODkwNTIzNTE0NzkwLWEwZDM4OTY2NTAxZjAwN2Y5Yzc5MGQ2NDIzNjNkMDk1NTAzMDlkNzQ3YzM5YzkyMWFjNzJlYTRmNzE1ZWFmNTI) <br><!-- (https://cu-spatialinfo-s20.slack.com) -->
+[Class Slack](https://cu-spatialinfo-s20.slack.com) <br>
 [Course Catalog Listing](http://www.columbia.edu/cu/bulletin/uwb/#/cu/bulletin/uwb/subj/ARCH/A4894-20201-001) <br>
 [Course Feedback Form](https://forms.gle/K172biNe2uBdG1YV9) <br>
 
