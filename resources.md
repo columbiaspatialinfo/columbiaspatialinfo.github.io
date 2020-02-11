@@ -17,3 +17,9 @@ title: Resources
 - [Prof. Amy Ko: Design Methods](https://faculty.washington.edu/ajko/books/design-methods/index.html)
 - [Open Design Kit](http://opendesignkit.org/)
 - [Encyclopedia of Human-Computer Interaction by Interaction Design Foundation](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
+
+### 3D Asset Libraries
+Nearly all optimized for AR/VR; many free, some pay-per-download.
+- [Unity Asset Store](https://assetstore.unity.com/)
+- [Google Poly](https://poly.google.com/)
+- [SketchFab](https://sketchfab.com/)
