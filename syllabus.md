@@ -49,15 +49,6 @@ Reasons you might plausibly want to take, or drop, this class:
 - This class is about making the right technology *decisions* rather than about coding. You won’t come out with an iOS app at the end of the semester (although you are welcome to) nor will you be required to write code, although there will be opportunities to write JavaScript. You will be required to use free AR prototyping software tools.
 - This class is *experimental*: augmented reality is an emerging field (e.g. most of the software we use have only been out for a few years) and as instructors we’ll be learning from you as much as you will be learning from us, and from each other. Please ask lots of questions, and please be active participants in shaping the course syllabus as the semester progresses.
 
-## Logistics
-
-- Lecture slides, readings, and assignments will be posted to the course website each week unless otherwise announced. Reference and tutorial links will be posted or announced to Slack.
-- Post questions, ideas, confusions, complaints and excitement to Slack. Office hours by individual appointment.
-- **Presentation Format**: All assignments will be done in groups of 3~4. To ensure efficient use of class time, all presentations will be done on Google Slides.
-  - *Sparks*: 3 slides x 20 seconds each. In shared file posted on schedule.
-  - *Mini*: 2 min. presentation + 2 min. discussion per group. In shared file posted on schedule.
-  - *Review*: 5 min. presentation + 5 min. discussion per group. Your own file.
-
 ## Auditors
 
 Auditors are welcome in class and encouraged to participate in discussion. You may form your own homework groups, the teaching team simply won't be able to provide grading or feedback due to time constraints.
